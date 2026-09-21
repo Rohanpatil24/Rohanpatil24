@@ -6,7 +6,7 @@
   </a>
 
   <p align="center">
-    <strong>Junior Backend Developer | Python • Django • REST APIs • React</strong>
+    <strong>Full Stack Software Developer | Python • Django • REST APIs • React</strong>
   </p>
 
   <!-- Animated / Status Badges -->
