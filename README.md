@@ -1,23 +1,30 @@
-# Hi there, I'm Rohan 👋
+<div align="center">
 
-### 👨‍💻 About Me
-- 🔭 Backend Developer working with **Python**, **Django**, and **REST APIs**
-- 🌱 Currently exploring scalable architecture and modern web tech
-- 💬 Ask me about backend workflows, databases, or web applications
-- ⚡ Fun fact: Always up for a good game of carrom or chess
+  <!-- Typing SVG Animation Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E86C1&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Rohan+Patil+%F0%9F%91%8B;Backend+Software+Developer+%E2%9A%99%EF%B8%8F;Building+Scalable+Web+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+
+  <p align="center">
+    <strong>Junior Backend Developer | Python • Django • REST APIs • React</strong>
+  </p>
+
+  <!-- Animated / Status Badges -->
+  <p align="center">
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <img src="https://komarev.com/ghpvc/?username=Rohanpatil24&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  </p>
+
+</div>
 
 ---
 
-### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+### 💫 About Me
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohanpatil24&show_icons=true&theme=tokyonight" alt="Rohan's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohanpatil24&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+```yaml
+name: Rohan Patil
+role: Backend Software Developer
+focus: Scalable Architecture, API Design, Microservices
+learning: Advanced System Design, Distributed Systems
+passions: [Clean Code, Strategic Games, Problem Solving]
